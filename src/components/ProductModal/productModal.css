@@ -1,0 +1,9 @@
+.modal-content {
+    min-height: 550px !important;
+}
+
+.img-size{
+    height: 450px !important;
+    object-fit: contain !important;
+    object-position: center !important;
+}
